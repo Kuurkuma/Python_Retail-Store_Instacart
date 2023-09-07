@@ -15,7 +15,7 @@ The stakeholders would like to be able to answer the following key questions:
 - Are there certain types of products that are more popular than others?
 - Which departments have the highest frequency of product orders ?
 
-##### Types of customers & ordering behaviors
+#### Types of customers & ordering behaviors:
 - What’s the distribution among users in regards to their brand loyalty ?
 - Are there differences in ordering habits based on a customer’s loyalty status?
 - Are there differences in ordering habits based on a customer’s region?
