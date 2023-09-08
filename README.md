@@ -12,6 +12,7 @@ The stakeholders would like to be able to answer the following key questions:
 - Are there particular times of the day when people spend the most money ?
 
 #### Marketing and sales:
+- There is a lot of different price tags. How a simpler price range groupings can be used?
 - Are there certain types of products that are more popular than others?
 - Which departments have the highest frequency of product orders ?
 
