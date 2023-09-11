@@ -27,7 +27,7 @@ The stakeholders would like to be able to answer the following key questions:
 ---- 
 ## Analysis
 
-
+Find the Excel report of the analysis in the 05-Sent_to_client Folder
 
 ## Dataset
 > “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on August 2023
