@@ -26,7 +26,19 @@ The stakeholders would like to be able to answer the following key questions:
 
 ## Analysis
 
-Find the Excel report of the analysis in the 05-Sent_to_client Folder
+![04-Analysis/viz/Orders by time of day.png](https://github.com/Kuurkuma/Python_Retail-Store_Instacart/blob/e408a55966a74caabec6b9e6e0504a5a8ab9606f/04-Analysis/viz/Orders%20by%20time%20of%20day.png)
+
+_This vizualisation will help the dev team to prepare and avoid the App to crash_
+
+---
+![04-Analysis/viz/Average Prices by Day of the Week.png](https://github.com/Kuurkuma/Python_Retail-Store_Instacart/blob/e408a55966a74caabec6b9e6e0504a5a8ab9606f/04-Analysis/viz/Average%20Prices%20by%20Day%20of%20the%20Week.png)
+
+_Here we can see the average prices depending of the day of the week_
+
+---
+
+For more on this analysis using python,
+Look at the Excel report of the analysis in the 05-Sent_to_client Folder
 
 ## Dataset
 > “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on August 2023
