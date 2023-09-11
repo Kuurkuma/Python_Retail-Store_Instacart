@@ -24,7 +24,6 @@ The stakeholders would like to be able to answer the following key questions:
 - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 - What differences can be find in ordering habits of different customer profiles?
 
----- 
 ## Analysis
 
 Find the Excel report of the analysis in the 05-Sent_to_client Folder
