@@ -26,14 +26,12 @@ The stakeholders would like to be able to answer the following key questions:
 
 ## Analysis
 
-![04-Analysis/viz/Orders by time of day.png](https://github.com/Kuurkuma/Python_Retail-Store_Instacart/blob/e408a55966a74caabec6b9e6e0504a5a8ab9606f/04-Analysis/viz/Orders%20by%20time%20of%20day.png)
+![05-Sent_to_client/dashboard1_instacart.png](https://github.com/Kuurkuma/Python_Retail-Store_Instacart/blob/main/05-Sent_to_client/dashboard1_instacart.png)
 
-_This vizualisation will help the dev team to prepare and avoid the App to crash_
 
 ---
-![04-Analysis/viz/Average Prices by Day of the Week.png](https://github.com/Kuurkuma/Python_Retail-Store_Instacart/blob/e408a55966a74caabec6b9e6e0504a5a8ab9606f/04-Analysis/viz/Average%20Prices%20by%20Day%20of%20the%20Week.png)
+![05-Sent_to_client/dashboard2_instacart.png](https://github.com/Kuurkuma/Python_Retail-Store_Instacart/blob/main/05-Sent_to_client/dashboard2_instacart.png)
 
-_Here we can see the average prices depending of the day of the week_
 
 ---
 
